@@ -1,6 +1,6 @@
 # Rede de Transporte Urbano Modelada como Dígrafo
 
-Modelagem e implementação de um sistema de transporte público simplificado usando grafos. Trabalho da disciplina de Grafos.
+Modelagem e implementação de um sistema de transporte público simplificado usando grafos. Trabalho da disciplina de Teoria dos Grafos.
 
 A rede é fictícia, inspirada na malha de Belém (PA), com 15 paradas distribuídas em 6 linhas.
 
